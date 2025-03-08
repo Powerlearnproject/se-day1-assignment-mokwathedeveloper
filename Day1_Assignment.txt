@@ -1,0 +1,183 @@
+SE Day 1 Assignment
+
+Part 1: Introduction to Software Engineering
+
+1. Explain what software engineering is and discuss its importance in the technology industry.
+
+Software engineering is a branch of computer science focused on the development, testing, and maintenance of software systems. It applies engineering principles to ensure that software is reliable, efficient, scalable, and secure.
+
+Reliability – Ensures software performs as expected, particularly in critical sectors such as healthcare and finance.
+
+Efficiency – Optimizes the development workflow while maintaining high-quality standards.
+
+Scalability & Flexibility – Ensures the system can handle increased load without degrading performance.
+
+Security – Implements protective measures like authentication, authorization, and encryption to safeguard user data.
+
+2. Identify and describe at least three key milestones in the evolution of software engineering.
+
+Mastering Complexity – Early software development lacked structure, leading to challenges in managing complexity. New paradigms such as structured programming emerged to enhance organization and maintainability.
+
+Mastering Process – The introduction of standardized processes like the Software Development Life Cycle (SDLC) improved software quality and efficiency.
+
+Mastering Machine – Advancements in hardware and operating systems allowed for more sophisticated software development and optimization.
+
+3. List and briefly explain the phases of the Software Development Life Cycle (SDLC).
+
+Planning – Identify software requirements, purpose, and scope.
+
+Requirement Analysis – Define user specifications and expectations.
+
+Design – Create a structured framework for the software.
+
+Coding – Translate the software design into actual code.
+
+Testing – Identify and fix bugs before deployment.
+
+4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
+Waterfall Methodology
+
+Linear and sequential approach where each phase is completed before moving to the next.
+
+Low flexibility – Changes are difficult to incorporate once a phase is complete.
+
+Late customer feedback – The product is tested at the final stage.
+
+Example Scenario – Best suited for projects with well-defined requirements, such as banking systems or military applications.
+
+Agile Methodology
+
+Iterative and incremental approach where development happens in cycles (sprints).
+
+High flexibility – Adapts to changing requirements.
+
+Frequent customer feedback – Involves stakeholders at every stage.
+
+Example Scenario – Ideal for startups or software products that require frequent updates, such as mobile applications.
+
+5. Describe the roles and responsibilities of a Software Developer, Quality Assurance Engineer, and Project Manager in a software engineering team.
+
+Software Developer
+
+Develops applications and systems.
+
+Maintains and updates software.
+
+Collaborates with team members to ensure best practices.
+
+Reports progress to the project manager.
+
+Quality Assurance Engineer
+
+Works with stakeholders to clarify software requirements.
+
+Establishes development standards and testing procedures.
+
+Identifies bugs and suggests improvements.
+
+Develops and executes automation scripts for testing.
+
+Project Manager
+
+Assembles and leads the software development team.
+
+Communicates with clients and developers about project requirements.
+
+Creates project blueprints and tracks progress.
+
+Delivers the final product and ensures long-term performance.
+
+6. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Provide examples of each.
+
+Integrated Development Environments (IDEs)
+
+An IDE is a software tool that facilitates code writing, compilation, and debugging.
+
+Examples:
+
+Visual Studio Code (VSCode)
+
+Importance:
+
+Provides syntax highlighting and autocomplete for better code readability.
+
+Helps format and structure code for better organization.
+
+Offers debugging tools for identifying and fixing errors efficiently.
+
+Automates unit testing before software is integrated.
+
+Version Control Systems (VCS)
+
+VCS manages changes to the source code over time, enabling collaboration and tracking modifications.
+
+Examples:
+
+Git
+
+Importance:
+
+Collaboration – Allows multiple developers to work on the same project.
+
+Change Tracking – Maintains a history of modifications.
+
+Branching & Merging – Supports feature development without affecting the main codebase.
+
+Error Recovery – Enables rollback to previous versions if errors occur.
+
+7. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
+Rapid Technological Advancements – Continuous learning and adopting agile methodologies help developers stay updated.
+
+Time Constraints – Using Scrum and Agile methodologies breaks projects into smaller, manageable sprints.
+
+Limited Infrastructure – Leveraging cloud computing and scalable architectures improves efficiency.
+
+Changing Software Requirements – Agile development and modular design allow flexibility for modifications.
+
+Software Security – Implementing security best practices protects against cyber threats.
+
+Software Usability – Prioritizing user experience ensures software is intuitive and user-friendly.
+
+8. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
+Unit Testing – Tests individual functions or components to ensure they work correctly in isolation.
+
+Integration Testing – Verifies that different modules interact correctly with each other.
+
+System Testing – Examines the complete system to check compliance with functional and non-functional requirements.
+
+Acceptance Testing – Validates whether the software meets business and user requirements before deployment.
+
+Part 2: Introduction to AI and Prompt Engineering
+
+1. Define prompt engineering and discuss its importance in interacting with AI models.
+
+Prompt engineering is the process of designing effective prompts to guide AI models in generating the desired output.
+
+Importance:
+
+Improved User Experience – Helps users get relevant responses faster.
+
+Increased Flexibility – Enables AI models to adapt to various tasks with well-structured prompts.
+
+Developer Control – Allows developers to fine-tune AI responses for better accuracy.
+
+2. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+Vague Prompt:
+
+"Draw a picture of a person."
+
+Improved Prompt:
+
+"Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background."
+
+Why is the improved prompt more effective?
+
+Clarity – Specifies the subject (full-body portrait of a woman).
+
+Specific Details – Describes appearance, clothing, and surroundings.
+
+Concise – Provides all necessary details without excessive complexity.
